@@ -15,7 +15,7 @@ Usando as melhores tecnologias disponiveis no mercado.
 #### Graphql/Codegen
 #### RouterDom
 #### Phosphorreact
-#### lassNames
+#### ClassNames
 #### DateFns
 _____
 ## English version
@@ -35,6 +35,6 @@ Using the best technologies available on the market.
 #### Graphql/Codegen
 #### RouterDom
 #### Phosphorreact
-#### lassNames
+#### ClassNames
 #### DateFns
 _____
