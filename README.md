@@ -1,4 +1,5 @@
-![Group 1](https://user-images.githubusercontent.com/105246720/176049700-85c387aa-6b2b-4651-8328-9c1efb80f9ac.svg)
+![ignite-lab](https://user-images.githubusercontent.com/105246720/177182481-5b9d150b-f254-4ae2-847a-52433d387307.png)
+
 
 >Projeto desenvolvido pela @rockseat na semana da Ignite-lab, codado por min.
 
