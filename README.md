@@ -1,7 +1,7 @@
 ![ignite-lab](https://user-images.githubusercontent.com/105246720/177182481-5b9d150b-f254-4ae2-847a-52433d387307.png)
 
 
->Projeto desenvolvido pela @rockseat na semana da Ignite-lab, codado por min.
+>Projeto desenvolvido pela @rockeseat na semana da Ignite-lab, codado por min.
 
 Usando as melhores tecnologias disponiveis no mercado.
 
@@ -21,7 +21,7 @@ Usando as melhores tecnologias disponiveis no mercado.
 _____
 ## English version
 
->Project developed by @rockseat during Ignite-lab week, coded by min.
+>Project developed by @rockeseat during Ignite-lab week, coded by min.
 
 Using the best technologies available on the market.
 
